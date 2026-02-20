@@ -1,0 +1,51 @@
+# About GrantByInterview
+
+## Our Story
+
+GrantByInterview was born from years of firsthand experience in the grant application trenches. We've spent years helping entrepreneurs, startups, and established companies navigate the complex world of research and development grants — writing applications, reviewing submissions, and watching the results come in.
+
+What we noticed, again and again, was a pattern that troubled us: talented researchers and innovative companies were losing funding not because their ideas weren't good enough, but because their applications were.
+
+## The Problem We're Solving
+
+**In our opinion, over 60% of grant applications fail due to misunderstanding the requirements.**
+
+Not because the research is weak. Not because the innovation isn't there. But because applicants misread what the grant is actually asking for, answer the wrong question, miss critical sections, or fail to present their work in the language that evaluators expect.
+
+Hiring an expert grant writer can cost thousands. For many early-stage researchers and small companies, that's simply not an option. They end up submitting applications that don't do their work justice — and they lose funding they deserved.
+
+We built GrantByInterview to change that.
+
+## How It Works
+
+Our tool breaks down each grant into its individual fields and requirements, providing clear instructions for what each section actually needs. Then, using the latest AI language models, it helps you generate professional-quality content based on your own description of your work.
+
+Think of it as having a grant writing expert sitting next to you, guiding you through each question, and helping you articulate your answers in a way that evaluators want to see.
+
+## Our Approach to AI
+
+Let's be honest about something: AI is not perfect. It makes mistakes. It can produce content that sounds convincing but contains inaccuracies. It can miss nuances that a human expert would catch.
+
+We know this, and we've designed GrantByInterview with this reality in mind. The tool is built to assist you, not to replace your judgment. Every piece of generated content should be reviewed, refined, and verified by you before submission. The AI is your co-writer, not your author.
+
+That said, AI is transforming the entire grant writing industry. The way applications are prepared, reviewed, and evaluated is going to change fundamentally in the coming years. But one thing won't change — someone still needs to fill out those applications. Our goal is to make that process faster, more accessible, and less expensive for everyone.
+
+## What's Next
+
+We're committed to the long-term development of GrantByInterview. Our roadmap includes expanding the library of supported grants, improving the AI prompts based on real-world feedback, adding collaboration features for research teams, and continuously strengthening our security practices.
+
+Our vision is simple: a low-cost, high-quality solution that gives every researcher and innovator a fair shot at the funding they need.
+
+## Join Us
+
+We believe we're at the beginning of something meaningful. The intersection of AI and grant writing has enormous potential to level the playing field — giving small teams and independent researchers access to the same quality of applications that large institutions produce.
+
+**If you share this vision and want to be part of the change — we're looking for investors.**
+
+We're seeking partners who understand the grant ecosystem, believe in the power of AI-assisted tools, and want to help us scale GrantByInterview to serve researchers and innovators worldwide.
+
+Interested? Reach out to us at **arnnei@gmail.com**. We'd love to talk.
+
+---
+
+*GrantByInterview — Because great research deserves great applications.*
