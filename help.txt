@@ -1,0 +1,64 @@
+# GrantByInterview — Help & Support
+
+## Getting Started
+
+GrantByInterview guides you through the grant application process step by step. Here's how it works:
+
+**1. Select a Grant**
+Browse the available grants on the Grants page and select the one you're applying for. Each grant comes with structured fields that match the actual application requirements.
+
+**2. Add Your Claude API Key**
+Go to Settings and enter your personal Anthropic Claude API key. This key is encrypted and stored securely — only you can use it. You can get a key at https://console.anthropic.com.
+
+**3. Work Through the Fields**
+For each field, describe your research or project briefly in your own words. The AI will generate professional grant application content based on your input and the specific field requirements.
+
+**4. Review and Refine**
+Always review the AI-generated content. You can refine it by giving instructions like "make it shorter," "add more technical detail," or "focus on the innovation aspect." Edit the text directly in the editor if needed.
+
+**5. Save and Export**
+Save each field when you're satisfied. You can export your complete application to a Word document at any time — even before all fields are complete.
+
+## Tips for Better Results
+
+- Be specific when describing your research. The more detail you provide, the better the AI output.
+- Use the Refine feature to iterate. First drafts are rarely perfect.
+- Check the Conversation History panel to revisit previous AI responses.
+- You can return to any completed field and update it at any time.
+- Export frequently to keep a backup of your progress.
+
+## Frequently Asked Questions
+
+**Do I need my own Claude API key?**
+Yes. Each user provides their own Anthropic API key. This keeps costs transparent — you pay Anthropic directly for the AI usage, and there are no hidden markup fees from us.
+
+**Is my data secure?**
+We take security seriously. Your grant content, conversation history, and API keys are encrypted with AES-256 encryption before being stored. All communication uses HTTPS. However, as noted in our Disclaimer, no system is perfectly secure, and you use the Service at your own risk.
+
+**Can I work on multiple grants at the same time?**
+Yes. You can select and work on as many grants as you like from the Grants page.
+
+**What happens if I close my browser mid-work?**
+Any field you've saved is stored securely and will be there when you return. Unsaved generated content in the editor will be lost, so remember to save before leaving.
+
+**Can I edit AI-generated content?**
+Absolutely. The generated content textarea is fully editable. We strongly encourage you to review and adjust everything before saving.
+
+## Contact & Support
+
+While we do not commit to guaranteed response times or formal support agreements, we are here to help where we can. If you have questions, encounter issues, or need guidance, you can reach us at:
+
+**arnnei@gmail.com**
+
+We are grant application professionals with years of hands-on experience helping researchers and organizations secure funding. This expertise is built into every aspect of GrantByInterview — from the field structures and instructions to the AI prompts that generate your content.
+
+## Professional Services
+
+Need more than the tool can offer? We provide additional consulting and support services for a fee, including:
+
+- Personalized grant application review and feedback
+- Strategy consulting for specific funding programs
+- Customized grant field templates for your organization
+- Dedicated support packages
+
+Contact us at **arnnei@gmail.com** to discuss how we can help you succeed.
